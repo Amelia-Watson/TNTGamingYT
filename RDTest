@@ -1,0 +1,18 @@
+[
+  {
+    "number":0,
+    "route":"P",
+    "controllerid":"rbxassetid://15834762440,rbxassetid://16093539552,rbxassetid://16093539416",
+    "frontid":"rbxassetid://15834718550,rbxassetid://16093533405,rbxassetid://16093533576",
+    "sideid":"rbxassetid://16186184753",
+    "backid":"rbxassetid://16186184753"
+  },
+  {
+    "number":1,
+    "route":"PHS",
+    "controllerid":"rbxassetid://0",
+    "frontid":"rbxassetid://73637039650550",
+    "sideid":"rbxassetid://73637039650550",
+    "backid":"rbxassetid://73637039650550"
+  }
+]
