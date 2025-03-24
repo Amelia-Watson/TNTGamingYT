@@ -22,5 +22,13 @@
     "frontid":"rbxassetid://105057352326041",
     "sideid":"rbxassetid://105057352326041",
     "backid":"rbxassetid://105057352326041"
+  },
+  {
+    "number":3,
+    "route":"DTP",
+    "controllerid":"rbxassetid://100535004458135",
+    "frontid":"rbxassetid://84193451508362",
+    "sideid":"rbxassetid://84193451508362",
+    "backid":"rbxassetid://84193451508362"
   }
 ]
