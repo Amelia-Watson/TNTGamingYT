@@ -70,5 +70,61 @@
     "frontid":"rbxassetid://138006939199063",
     "sideid":"rbxassetid://138006939199063",
     "backid":"rbxassetid://138006939199063"
+  },
+      {
+    "number":9,
+    "route":"HCS",
+    "controllerid":"rbxassetid://70584432343217",
+    "frontid":"rbxassetid://97030169910276",
+    "sideid":"rbxassetid://97030169910276",
+    "backid":"rbxassetid://97030169910276"
+  },
+        {
+    "number":10,
+    "route":"LUH",
+    "controllerid":"rbxassetid://100224033576575",
+    "frontid":"rbxassetid://132346119664881",
+    "sideid":"rbxassetid://132346119664881",
+    "backid":"rbxassetid://132346119664881"
+  },
+        {
+    "number":11,
+    "route":"KCS",
+    "controllerid":"rbxassetid://80811591630208",
+    "frontid":"rbxassetid://131634424880782",
+    "sideid":"rbxassetid://131634424880782",
+    "backid":"rbxassetid://131634424880782"
+  },
+        {
+    "number":12,
+    "route":"WPR",
+    "controllerid":"rbxassetid://86883211017517",
+    "frontid":"rbxassetid://105921680177453",
+    "sideid":"rbxassetid://105921680177453",
+    "backid":"rbxassetid://105921680177453"
+  },
+        {
+    "number":13,
+    "route":"VIC",
+    "controllerid":"rbxassetid://88353598112859",
+    "frontid":"rbxassetid://97095372735673",
+    "sideid":"rbxassetid://97095372735673",
+    "backid":"rbxassetid://97095372735673"
+  },
+        {
+    "number":14,
+    "route":"LCE",
+    "controllerid":"rbxassetid://86816371511153",
+    "frontid":"rbxassetid://95280382232655",
+    "sideid":"rbxassetid://95280382232655",
+    "backid":"rbxassetid://95280382232655"
+  },
+        {
+    "number":15,
+    "route":"TSP",
+    "controllerid":"rbxassetid://119948296369923",
+    "frontid":"rbxassetid://137036702475460",
+    "sideid":"rbxassetid://137036702475460",
+    "backid":"rbxassetid://137036702475460"
   }
 ]
