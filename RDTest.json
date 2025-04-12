@@ -318,5 +318,14 @@
       "frontid":"rbxassetid://82023905818144",
       "sideid":"rbxassetid://82023905818144",
       "backid":"rbxassetid://82023905818144"
+   },
+           {
+      "number":40,
+      "route":"ON9",
+      "controllerid":"rbxassetid://70997326760482",
+      "frontid":"rbxassetid://70997326760482",
+      "sideid":"rbxassetid://70997326760482",
+      "backid":"rbxassetid://70997326760482"
    }
+    
 ]
